@@ -1,3 +1,4 @@
+#Area of a triangle
 b = int(input("Input the base : "))
 h = int(input("Input the height : "))
 
