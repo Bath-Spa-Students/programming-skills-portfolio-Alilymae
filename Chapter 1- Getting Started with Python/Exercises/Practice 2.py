@@ -1,2 +1,2 @@
-a = "hi"
-print (a * 50)
+
+print ( "hi"* 50)
