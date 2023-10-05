@@ -1,0 +1,8 @@
+a = input("What is your name: ")
+b = input("What is your age: ")
+c = input("When is your birthday: ")
+d = input("Which Emirate do you live in: ")
+e = input("Father's name: ")
+f = input("Mother's name: ")
+g = input("What school do you go to: ")
+print = (a, b, c, d, e, f, g )
