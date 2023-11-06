@@ -1,7 +1,7 @@
-#Placing the list of favorite fruits in variable called f
+#Placing the list of favorite fruits in a variable called f
 f = ["Apple", "Watermelon", "Lychee", "Mango"]
 
-#writing an if statement to see if the uit is in the list
+#writing an if statement to see if the fruit is in the list
 if "Apple" in f:
     print("I love Apples!")
 if "Watermelon" in f:
